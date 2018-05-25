@@ -1,9 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2003
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asynchronousTransferMode", "asynchronousTransferMode\asynchronousTransferMode.csproj", "{8B0BEDC5-8A87-45CD-BA7E-39D5C8CF059C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomatedTellerMachine", "AutomatedTellerMachine\AutomatedTellerMachine.csproj", "{8B0BEDC5-8A87-45CD-BA7E-39D5C8CF059C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
